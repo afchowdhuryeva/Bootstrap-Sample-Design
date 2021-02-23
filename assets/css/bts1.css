@@ -1,0 +1,23 @@
+.main-header{
+    /* height: 100vh; */
+    min-height:600px;
+    background-image: url("../img/hero-bg.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    position: relative;
+}
+.navbar-nav{
+    right: 50%;
+    transform: translate(50%, 0);
+}
+.body-slide{
+    top: 50%;
+    transform: translate(0, 50%);
+}
+.font{
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 56px;
+}
+
